@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1104B464-A74B-4F8B-AA82-39F62FBF1FCD"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F59EFDD5-7623-4DC4-BB24-A7B01229A1AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "watchList/Controller/FavoritesVC/FavoritesTableViewCell/FavoritesTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "cellSetUp(watch:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F59EFDD5-7623-4DC4-BB24-A7B01229A1AD - 3cdbe583d74d8940"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "watchList.FavoritesTableViewCell.cellSetUp(watch: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "watchList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buketgirenay/Desktop/watchList/watchList/Controller/FavoritesVC/FavoritesTableViewCell/FavoritesTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "F59EFDD5-7623-4DC4-BB24-A7B01229A1AD - 18fa6e24e939262e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "watchList.FavoritesTableViewCell.cellSetUp(watch: Any) -&gt; ()"
+                  moduleName = "watchList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buketgirenay/Desktop/watchList/watchList/Controller/FavoritesVC/FavoritesTableViewCell/FavoritesTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "F59EFDD5-7623-4DC4-BB24-A7B01229A1AD - b2db5dd680142e3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "watchList.FavoritesTableViewCell.cellSetUp(watch: Swift.String) -&gt; ()"
+                  moduleName = "watchList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buketgirenay/Desktop/watchList/watchList/Controller/FavoritesVC/FavoritesTableViewCell/FavoritesTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "F59EFDD5-7623-4DC4-BB24-A7B01229A1AD - b2db5dd680142e1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "watchList.FavoritesTableViewCell.cellSetUp(watch: Swift.String) -&gt; ()"
+                  moduleName = "watchList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buketgirenay/Desktop/watchList/watchList/Controller/FavoritesVC/FavoritesTableViewCell/FavoritesTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "F59EFDD5-7623-4DC4-BB24-A7B01229A1AD - b2db5dd680142e1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "watchList.FavoritesTableViewCell.cellSetUp(watch: Swift.String) -&gt; ()"
+                  moduleName = "watchList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buketgirenay/Desktop/watchList/watchList/Controller/FavoritesVC/FavoritesTableViewCell/FavoritesTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64F7AA90-1ECF-49AF-AC90-CF4FB3CD68D4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "watchList/Controller/Home/HomeVC/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "observeDataSource()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "64F7AA90-1ECF-49AF-AC90-CF4FB3CD68D4 - 5f3ae2abb7ab6be4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (watchList.HomeStateChange) -&gt; () in watchList.HomeVC.observeDataSource() -&gt; ()"
+                  moduleName = "watchList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buketgirenay/Desktop/watchList/watchList/Controller/Home/HomeVC/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "64F7AA90-1ECF-49AF-AC90-CF4FB3CD68D4 - 5f3ae2abb7ab6be4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (watchList.HomeStateChange) -&gt; () in watchList.HomeVC.observeDataSource() -&gt; ()"
+                  moduleName = "watchList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buketgirenay/Desktop/watchList/watchList/Controller/Home/HomeVC/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "424">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "168657C4-5A94-4DB8-97B8-01D84F39A86E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "watchList/Controller/Home/HomeVC/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "observeDataSource()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "168657C4-5A94-4DB8-97B8-01D84F39A86E - 5f3ae2abb7ab64d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (watchList.HomeStateChange) -&gt; () in watchList.HomeVC.observeDataSource() -&gt; ()"
+                  moduleName = "watchList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buketgirenay/Desktop/watchList/watchList/Controller/Home/HomeVC/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1148">
+               </Location>
+               <Location
+                  uuid = "168657C4-5A94-4DB8-97B8-01D84F39A86E - 5f3ae2abb7ab64d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (watchList.HomeStateChange) -&gt; () in watchList.HomeVC.observeDataSource() -&gt; ()"
+                  moduleName = "watchList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buketgirenay/Desktop/watchList/watchList/Controller/Home/HomeVC/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4BF05D41-4FBB-445B-BB27-BDA4E46F6627"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "watchList/Controller/Home/HomeCell/HomeTableViewCell/HomeTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "setCell(title:data:isPopular:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E728CAE2-6625-4001-AB8E-9B8F0C4DA459"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "watchList/Controller/Home/HomeCell/HomeTableViewCell/HomeTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "collectionView(_:willDisplay:forItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E728CAE2-6625-4001-AB8E-9B8F0C4DA459 - b37f5f84d8d755f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "watchList.HomeTableViewCell.collectionView(_: __C.UICollectionView, willDisplay: __C.UICollectionViewCell, forItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "watchList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buketgirenay/Desktop/watchList/watchList/Controller/Home/HomeCell/HomeTableViewCell/HomeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "E728CAE2-6625-4001-AB8E-9B8F0C4DA459 - b37f5f84d8d755f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "watchList.HomeTableViewCell.collectionView(_: __C.UICollectionView, willDisplay: __C.UICollectionViewCell, forItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "watchList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buketgirenay/Desktop/watchList/watchList/Controller/Home/HomeCell/HomeTableViewCell/HomeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "308">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12593255-AF9A-4D65-8ABA-8985C6498DF7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "watchList/Controller/Home/HomeVC/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "observeDataSource()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "12593255-AF9A-4D65-8ABA-8985C6498DF7 - 5f3ae2abb7ab6b4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (watchList.HomeStateChange) -&gt; () in watchList.HomeVC.observeDataSource() -&gt; ()"
+                  moduleName = "watchList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buketgirenay/Desktop/watchList/watchList/Controller/Home/HomeVC/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "892">
+               </Location>
+               <Location
+                  uuid = "12593255-AF9A-4D65-8ABA-8985C6498DF7 - 267bfa31b1b9c8b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Swift.MainActor () -&gt; () in closure #1 (watchList.HomeStateChange) -&gt; () in watchList.HomeVC.observeDataSource() -&gt; ()"
+                  moduleName = "watchList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buketgirenay/Desktop/watchList/watchList/Controller/Home/HomeVC/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "12593255-AF9A-4D65-8ABA-8985C6498DF7 - 5f3ae2abb7ab6b4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (watchList.HomeStateChange) -&gt; () in watchList.HomeVC.observeDataSource() -&gt; ()"
+                  moduleName = "watchList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/buketgirenay/Desktop/watchList/watchList/Controller/Home/HomeVC/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "852">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
